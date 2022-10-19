@@ -1,7 +1,7 @@
 package main
 
 import (
-	"exerCap3/exercicios"
+	"fluxo_controle/exercicios"
 )
 
 func main() {
