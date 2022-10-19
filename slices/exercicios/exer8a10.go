@@ -14,4 +14,9 @@ func Exer8() {
 	}
 	b["Alguem"] = "Fazer nada"
 
+	fmt.Println(b)
+
+	delete(b, "Alguem")
+
+	fmt.Println(b)
 }
