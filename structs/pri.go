@@ -4,6 +4,6 @@ import "structs/exercicios"
 
 func main() {
 
-	exercicios.Exer1()
+	exercicios.Exer4()
 
 }
