@@ -7,4 +7,4 @@ EX:  ``` exercicios.Exer1()``` - ``` exercicios.Exer2()``` ...
 
 ## DETALHES
 - o conteúdo colocado aqui refere-se a ```Funções, métodos e interfaces```
-- inicia a partir do vídeo 98
+- inicia a partir do vídeo 98 
