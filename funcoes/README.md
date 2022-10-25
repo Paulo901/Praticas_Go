@@ -1,5 +1,5 @@
 # OBS:
-- esses exercícios se referem ao nível 5 do curso
+- esses exercícios se referem ao nível 6 do curso
 - para navegar e testar os exercicios, no arquivo pri.go, modifique o nome dos métodos para os que quer testar <br>
 EX:  ``` exercicios.Exer1()``` - ``` exercicios.Exer2()``` ...
   * alguns exercícios precisam de processos a mais para serem testados, esses eu deixei comentados, basta descomentar
