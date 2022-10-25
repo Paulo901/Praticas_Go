@@ -1,11 +1,9 @@
 package exercicios
 
-import (
-	"fmt"
-)
+import "fmt"
 
 type Quadrado struct {
-	VLado, VArea float64
+	VLado, VArea int
 }
 
 func (q *Quadrado) Area() {

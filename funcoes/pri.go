@@ -8,29 +8,13 @@ import (
 
 func main() {
 
-	a := exercicios.Exer10()
-	b := exercicios.Exer10()
-	fmt.Println(a())
-	fmt.Println(a())
-	fmt.Println(a())
-	fmt.Println("----------------")
-	fmt.Println(b())
-	fmt.Println(b())
+	c := exercicios.Circulo{VRaio: 10}
+	q := exercicios.Quadrado{VLado: 20}
 
-	//Testes Preparados:
-	// (questão 5)
-	// c := exercicios.Circulo{VRaio: 10}
-	// q := exercicios.Quadrado{VLado: 20}
+	exercicios.Area(&c)
+	exercicios.Area(&q)
 
-	// exercicios.Area(&c)
-	// exercicios.Area(&q)
-
-	// (questão 8)
-	//a := exercicios.Exer8()
-	//a()
-
-	// (questão 9)
-	//exercicios.Exer9(exercicios.Chamado)
+	//Guardado()
 }
 
 func Guardado() {
