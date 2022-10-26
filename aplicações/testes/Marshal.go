@@ -3,6 +3,7 @@ package testes
 import (
 	"encoding/json"
 	"fmt"
+	"os"
 )
 
 type coisa struct {
@@ -19,4 +20,10 @@ func Transforma() {
 		panic(err.Error())
 	}
 	fmt.Println(string(c1j))
+	//	com Marshal
+	//-------------------------------------
+	//	com Encoder
+	encodador := json.NewEncoder(os.Stdout)
+	encodador.Encode(c1)
+
 }
