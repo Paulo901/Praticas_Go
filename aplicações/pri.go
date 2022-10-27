@@ -6,10 +6,10 @@ import (
 )
 
 func main() {
-	exercicios.Exer1()
+	exercicios.Exer5()
 }
 
-func guardados() {
+func Guardados() {
 	testes.TirandoDoMarshal()
 	testes.Padroes()
 	testes.Forjados()

@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// código do link: https://play.golang.org/p/U0jea43X55
+// código do link	 -> https://play.golang.org/p/U0jea43X55 <-
 type user struct {
 	First string
 	Age   int
