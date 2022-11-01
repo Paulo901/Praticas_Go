@@ -1,8 +1,15 @@
 package main
 
-import "concorrencia/exercicios"
+import (
+	"concorrencia/exercicios"
+	"concorrencia/testes"
+)
 
 func main() {
-	exercicios.Exer3()
+	exercicios.Exer6()
+
+}
+func Guardado() {
+	testes.Prin()
 
 }
