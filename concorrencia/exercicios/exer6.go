@@ -5,7 +5,7 @@ import (
 	"runtime"
 )
 
-func main() {
+func Exer6() {
 
 	fmt.Println("Sistema Operacional: ", runtime.GOOS)
 	fmt.Println("Arquivo: ", runtime.GOARCH)

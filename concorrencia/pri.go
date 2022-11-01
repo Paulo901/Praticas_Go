@@ -3,6 +3,6 @@ package main
 import "concorrencia/exercicios"
 
 func main() {
-	exercicios.Exer3()
+	exercicios.Exer6()
 
 }

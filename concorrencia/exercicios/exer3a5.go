@@ -11,7 +11,7 @@ var wg sync.WaitGroup
 var mutex sync.Mutex
 var contador int32
 
-func Exer3() {
+func Exer3a5() {
 
 	A(3)
 	wg.Wait()
